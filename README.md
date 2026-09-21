@@ -24,7 +24,7 @@ ros2 run ros_gz_bridge parameter_bridge \
 /world/empty/model/mi_rover/joint_state@sensor_msgs/msg/JointState[gz.msgs.Model \
 /model/mi_rover/joint/Joint_1/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \
 /model/mi_rover/joint/Joint_2/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \
-/model/mi_rover/joint/Joint_3/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \*p
+/model/mi_rover/joint/Joint_3/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \
 /model/mi_rover/joint/Joint_4/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \
 /model/mi_rover/joint/Joint_5/cmd_force@std_msgs/msg/Float64]gz.msgs.Double \
 /cmd_vel@geometry_msgs/msg/Twist]gz.msgs.Twist
